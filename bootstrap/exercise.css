@@ -1,0 +1,82 @@
+.top-head {
+    background-color: rgb(111, 140, 211);
+    margin-top: 50px;
+    margin-bottom: 75px;
+}
+
+.content{
+    background-color: bisque;
+    
+
+}
+
+ul {
+    list-style: none;
+}
+.li_head {
+    display:inline;
+    margin: 10px;
+
+}
+
+.menu {
+
+    text-decoration: none;
+    color:white
+}
+
+.logo{
+    margin-block: 20px;
+    margin-left: 10px;
+}
+
+.card {
+    margin-top: 75px;
+    margin: auto;
+    width: 260px;
+    height: 170px;
+
+}
+.cardmargin{
+    margin-top: 75px;
+}
+
+.cardsize{
+    height: 260px;
+    width: 170px;
+}
+
+.footerA{
+    background-color: rgb(126, 122, 122);
+    text-decoration: none;
+    margin-top: 100px;
+
+}
+
+.footer_ul{
+
+    margin-top: 30px;
+
+}
+h4{
+    margin-bottom: 20px;
+}
+.cont_footer {
+    margin-bottom: 10px;
+}
+
+.cizgi {
+    position: relative;
+}
+.cizgi1::after{
+    content: "";
+    position: absolute;
+    height: 100px;
+    width: 2px;
+    background-color: black;
+    right: 0 ;
+
+}
+.cizgi1 {
+    padding-right: 10   px;
+}
